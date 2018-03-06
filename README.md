@@ -27,5 +27,5 @@ https://softuni.bg/certificates/details/20048/d7cf71c7
 •	ExpressJS Fundamentals -
 https://softuni.bg/certificates/details/21727/3ec30178
 
-Angular2 Fundamentals - 
+•	Angular2 Fundamentals - 
 https://softuni.bg/certificates/details/23584/48babc5e
