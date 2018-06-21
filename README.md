@@ -30,3 +30,9 @@ https://softuni.bg/certificates/details/21727/3ec30178
 
 •	Angular2 Fundamentals - 
 https://softuni.bg/certificates/details/23584/48babc5e
+
+•	ReactJS Fundamentals - 
+https://softuni.bg/certificates/details/53491/509f440d
+
+•	JavaScript Diploma - 
+https://softuni.bg/certificates/details/54859/cc579345
