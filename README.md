@@ -36,3 +36,6 @@ https://softuni.bg/certificates/details/53491/509f440d
 
 •	JavaScript Diploma - 
 https://softuni.bg/certificates/details/54859/cc579345
+
+### IELTS
+•	Overal Score: 7.0
