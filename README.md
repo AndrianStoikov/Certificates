@@ -34,14 +34,14 @@ https://softuni.bg/certificates/details/23584/48babc5e
 •	ReactJS Fundamentals - 
 https://softuni.bg/certificates/details/53491/509f440d
 
-•	JavaScript Diploma - 
-https://softuni.bg/certificates/details/54859/cc579345
-
 •	Algorithms Fundamentals (with Java) - 
 https://softuni.bg/certificates/details/83470/b237a02a
 
 •	Algorithms Advanced (with Java) -
 https://softuni.bg/certificates/details/85446/db9c857a
+
+•	JavaScript Web Developer - 
+https://softuni.bg/certificates/details/54859/cc579345
 
 ### IELTS
 •	Overal Score: 7.0
